@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Dhaka 2077</string>
+    <string name="game_title">ট্রাফিক কনট্রোলার: ঢাকা ২০৭৭</string>
+    <string name="game_subtitle">সাইবার-ট্রাফিক পুলিশ সিমুলেটর</string>
+    <string name="play">খেলা শুরু করুন</string>
+    <string name="campaign">ক্যাম্পেইন মোড</string>
+    <string name="endless">অন্তহীন জ্যাম মোড</string>
+    <string name="how_to_play">কীভাবে খেলবেন</string>
+    <string name="settings">সেটিংস</string>
+    <string name="high_score">সর্বোচ্চ স্কোর</string>
+    <string name="score">স্কোর</string>
+    <string name="coins">সাইবার কয়েন</string>
+    <string name="honk_meter">হর্ন মিটার</string>
+    <string name="drone_available">ড্রোন রেডি</string>
+    <string name="drone_cooldown">ড্রোন কুলডাউন</string>
+    <string name="emp_blast">ইএমপি শকওয়েভ</string>
+    <string name="holo_barrier">হলো-ব্যারিকেড</string>
+    <string name="pause">পজ</string>
+    <string name="resume">চালিয়ে যান</string>
+    <string name="restart">পুনরায় খেলুন</string>
+    <string name="main_menu">মূল মেনু</string>
+    <string name="game_over">জ্যামে ঢাকা অচল!</string>
+    <string name="level_complete">লেভেল সম্পন্ন!</string>
+    <string name="vip_alert">⚠️ ভিআইপি প্রোটোকল সতর্কতা! সাইরেন অন!</string>
+    <string name="leguna_alert">⚠️ রকেট-লেগুনা সিগন্যাল ভাঙছে!</string>
+    <string name="pedestrian_alert">🚶‍♂️ পথচারী রেলিং টপকে পার হচ্ছে!</string>
+</resources>

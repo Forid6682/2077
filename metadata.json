@@ -1,0 +1,6 @@
+{
+  "name": "Dhaka 2077",
+  "description": "Traffic Controller: Dhaka 2077 - Cyberpunk Dhaka traffic management game with drones, VIP protocols, rocket legunas, and honk meter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
